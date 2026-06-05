@@ -8,7 +8,7 @@ This guide outlines the prerequisites and steps required to set up your environm
 
 ## 📋 Pre-Requirements
 
-Before using the [Jumpstart](https://github.com/caugusto/GE-Value-workshop/blob/main/ge_jumpstart.md), ensure the following setup items are complete:
+Before using the [Jumpstart](https://github.com/mumanoha/GE-Value-workshop/blob/main/ge_jumpstart.md), ensure the following setup items are complete:
 
 - [ ] **IAM Configured**: Verify that appropriate Identity and Access Management roles are active for the project.
 - [ ] **Licenses Assigned**: Confirm that Gemini Enterprise licenses have been allocated to your user account.
@@ -26,7 +26,7 @@ Before using the [Jumpstart](https://github.com/caugusto/GE-Value-workshop/blob/
 In this task, you will acquire sample documents and upload them to Cloud Storage for use with the AI assistant tools.
 
 1. **Download Sample Data**:
-   - Download the sample data ZIP: [ge_sample_data_for_workshop.zip](https://github.com/caugusto/GE-Value-workshop/blob/main/data/ge_sample_data_for_workshop.zip)
+   - Download the sample data ZIP: [ge_sample_data_for_workshop.zip](https://github.com/mumanoha/GE-Value-workshop/blob/main/data/ge_sample_data_for_workshop.zip)
    - Extract the contents locally on your machine.
 
 2. **Upload to Cloud Storage**:

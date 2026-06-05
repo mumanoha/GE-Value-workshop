@@ -266,7 +266,7 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
 
 7. **File Analysis:**
    * You can analyze images, videos, or code directly. <br>
-   * Download the [Microservices Architecture PDF](https://github.com/caugusto/GE-Value-workshop/raw/main/data/ge_sample_data_for_workshop/microservices.pdf) and save it locally. <br>
+   * Download the [Microservices Architecture PDF](https://github.com/mumanoha/GE-Value-workshop/raw/main/data/ge_sample_data_for_workshop/microservices.pdf) and save it locally. <br>
    * **Upload the file**:
      * Drag and drop it directly into the Omnibar, OR
      * Click the **+ icon** to upload. <br>
@@ -296,7 +296,7 @@ Gemini Enterprise can analyze public web data, process files, and format data fo
 
 9. **Graph/Chart Generation:**
    * You can generate a graph/chart from data.<br>
-   * Download the [Sales Performance txt file](https://github.com/caugusto/GE-Value-workshop/raw/main/data/ge_sample_data_for_workshop/sales_performance.txt) and save it locally using **.csv** extension. <br>
+   * Download the [Sales Performance txt file](https://github.com/mumanoha/GE-Value-workshop/raw/main/data/ge_sample_data_for_workshop/sales_performance.txt) and save it locally using **.csv** extension. <br>
    * **Start a new chat.** <br>
    * **Upload the file**:
      * Drag and drop it directly into the Omnibar, OR
@@ -500,7 +500,7 @@ Gemini Enterprise allows you to generate images and videos using Google’s stat
 ### Part B: Multimodal Image Generation from PDF
 
 1. **Download Acme's RFP for Web Design Services:**
-   * Download the [Web Design RFP.pdf](https://github.com/caugusto/GE-Value-workshop/blob/main/data/ge_sample_data_for_workshop/acme-co/Web%20Design%20RFP.pdf) to your local machine.
+   * Download the [Web Design RFP.pdf](https://github.com/mumanoha/GE-Value-workshop/blob/main/data/ge_sample_data_for_workshop/acme-co/Web%20Design%20RFP.pdf) to your local machine.
 
 2. **Upload PDF to Gemini:**
    * Start a **New chat**.
@@ -584,8 +584,8 @@ Essentially, NotebookLM is built for the "heavy lifting" phase of a project. Whi
 
 4. **Import Content:**
    * Download the following sample documents to your local machine:
-     * [Web Company's Product Capabilities](https://github.com/caugusto/GE-Value-workshop/blob/main/data/ge_sample_data_for_workshop/acme-co/Web%20Company's%20Product%20Capabilities.pdf)
-     * [Web Design RFP](https://github.com/caugusto/GE-Value-workshop/blob/main/data/ge_sample_data_for_workshop/acme-co/Web%20Design%20RFP.pdf)
+     * [Web Company's Product Capabilities](https://github.com/mumanoha/GE-Value-workshop/blob/main/data/ge_sample_data_for_workshop/acme-co/Web%20Company's%20Product%20Capabilities.pdf)
+     * [Web Design RFP](https://github.com/mumanoha/GE-Value-workshop/blob/main/data/ge_sample_data_for_workshop/acme-co/Web%20Design%20RFP.pdf)
    * Import both files into your newly created notebook to begin the analysis.   
    
    <br>
@@ -795,7 +795,7 @@ Take more control of the agent-building process by using the manual Builder inte
 
 4. Update the agent's **Name** to `Sales Call Followup Agent`.
 
-5. Next to the agent's Name field, click on the upload icon labeled **Icon**. [Download a Sample Robot Icon here](https://github.com/caugusto/GE-Value-workshop/raw/main/data/ge_sample_data_for_workshop/robot_icon.jpg).
+5. Next to the agent's Name field, click on the upload icon labeled **Icon**. [Download a Sample Robot Icon here](https://github.com/mumanoha/GE-Value-workshop/raw/main/data/ge_sample_data_for_workshop/robot_icon.jpg).
    
    <img src="jumpstart_images/image-47_bordered.png" width="80%" />
 
